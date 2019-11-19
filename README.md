@@ -1,1 +1,1 @@
-# Repositório criado para postar exercícios do grupo
+# Repositório do trabalho apresentado no seminário sobre POO dia 18/11
